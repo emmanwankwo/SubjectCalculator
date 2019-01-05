@@ -1,0 +1,6 @@
+C:\VS Projects\SubjectCalculator\SubjectCalculator\bin\Debug\SubjectCalculator.exe.config
+C:\VS Projects\SubjectCalculator\SubjectCalculator\bin\Debug\SubjectCalculator.exe
+C:\VS Projects\SubjectCalculator\SubjectCalculator\bin\Debug\SubjectCalculator.pdb
+C:\VS Projects\SubjectCalculator\SubjectCalculator\obj\Debug\SubjectCalculator.csprojResolveAssemblyReference.cache
+C:\VS Projects\SubjectCalculator\SubjectCalculator\obj\Debug\SubjectCalculator.exe
+C:\VS Projects\SubjectCalculator\SubjectCalculator\obj\Debug\SubjectCalculator.pdb
